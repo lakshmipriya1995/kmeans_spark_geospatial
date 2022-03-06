@@ -1,4 +1,4 @@
-# write a spark application in python to implement K-means algorithm to calculate K-means for the device 
+write a spark application in python to implement K-means algorithm to calculate K-means for the device 
 location (each location has a latitude and longitude) in the file that is prepared by the previous step. That 
 is to say, the file in /devicestatus_etl on HDFS is the input of your program. Review Figure 1 to see the 
 format of the data. You cannot use K-means in MLib of Spark to solve the problem.
